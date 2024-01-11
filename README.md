@@ -7,4 +7,4 @@ ERD_NYC_schools.png has the ERD
 
 Data_dictionary.xls has the data dictionary
 
-NYC_schools.sql is the main file with all the SQL commands used to create this
+NYC_schools.sql is the main file with all the SQL commands used to create this. Its using PostgreSQL if you want to connect to a server and try it.
