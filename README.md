@@ -4,5 +4,7 @@ The datasets I used are publicly available. I downloaded the datasets --> cleane
 --> created ERD --> created tables --> normalized them --> defined the relationships --> defined keys
 
 ERD_NYC_schools.png has the ERD
+
 Data_dictionary.xls has the data dictionary
+
 NYC_schools.sql is the main file with all the SQL commands used to create this
